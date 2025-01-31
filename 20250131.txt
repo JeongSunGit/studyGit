@@ -1,3 +1,7 @@
 Hello test git
 I fixed githubsite.
+<<<<<<< HEAD
 I fixed with local
+=======
+I fixed again
+>>>>>>> b176e25cb771bd3da8a4bcfb6ca62cf57f8fa375
